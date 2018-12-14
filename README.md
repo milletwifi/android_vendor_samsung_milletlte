@@ -1,5 +1,6 @@
 # Tab 4 Light 10.1 Project/Rom
-Device configuration for Samsung Galaxy Tab 4 10.1 matisselte (android_vendor_samsung_matisselte).
+
+**Vendor repo for Samsung Galaxy Tab 4 10.1 matisselte (SM-T535)**
 
 |Code Name|Model Number|ScreenSize|Colors|
 |--|--|--|--|
