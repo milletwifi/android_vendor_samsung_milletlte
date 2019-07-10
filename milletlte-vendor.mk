@@ -27,7 +27,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/milletlte/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/milletlte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/milletlte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
-    vendor/samsung/milletlte/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
@@ -42,3 +41,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/milletlte/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
+    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so
