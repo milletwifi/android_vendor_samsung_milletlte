@@ -23,23 +23,10 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/milletlte/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/milletlte/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/samsung/milletlte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/milletlte/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/milletlte/proprietary/lib/librilutils.so:system/lib/librilutils.so \
-    vendor/samsung/milletlte/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/milletlte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/milletlte/proprietary/lib/hw/vibrator.default.so:lib/hw/vibrator.default.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqcci_legacy.so:system/vendor/lib/libqcci_legacy.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_cci.so:system/vendor/lib/libqmi_cci.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_client_qmux.so:system/vendor/lib/libqmi_client_qmux.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_common_so.so:system/vendor/lib/libqmi_common_so.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_csi.so:system/vendor/lib/libqmi_csi.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_encdec.so:system/vendor/lib/libqmi_encdec.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmiservices.so:system/vendor/lib/libqmiservices.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libqmi.so:system/vendor/lib/libqmi.so \
-    vendor/samsung/milletlte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so
+    vendor/samsung/milletlte/proprietary/vendor/lib/libril-qcril-hook-oem.so:system/vendor/lib/libril-qcril-hook-oem.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libqmi_csvt_srvc.so:system/vendor/lib/libqmi_csvt_srvc.so
