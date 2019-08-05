@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/milletlte/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/samsung/milletlte/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
     vendor/samsung/milletlte/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/milletlte/proprietary/lib/librilutils.so:system/lib/librilutils.so \
     vendor/samsung/milletlte/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/milletlte/proprietary/lib/hw/vibrator.default.so:lib/hw/vibrator.default.so \
     vendor/samsung/milletlte/proprietary/vendor/lib/libconfigdb.so:system/vendor/lib/libconfigdb.so \
